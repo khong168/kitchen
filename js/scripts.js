@@ -11,5 +11,5 @@ function ozml (ounces) {
 function pintsLiters (pints) {
   return pints/ 1.7598
 };
-var pints = prompt("input number of pints you need to convert");
-alert(pintsLiters(pints));
+// var pints = prompt("input number of pints you need to convert");
+// alert(pintsLiters(pints));
